@@ -12,12 +12,16 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - French translate for "Feels"
 - Translations for newsfeed module
 - Support for toggling news article in fullscreen
+- Hungarian translation for "Feels" and "Week"
+- Spanish translation for "Feels"
 
 ### Fixed
+- Mixup between german and spanish translation for newsfeed.
 
 ### Updated
 
 - Swedish translations
+- Hungarian translations for the updatenotification module
 
 ## [2.4.1] - 2018-07-04
 
